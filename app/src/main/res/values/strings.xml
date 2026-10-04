@@ -1,13 +1,13 @@
 <resources>
     <string name="app_name">مساعدي الشخصي</string>
-    <string name="chat_tab">المحادثة</string>
-    <string name="tasks_tab">المهام</string>
-    <string name="notes_tab">الملاحظات</string>
-    <string name="hint_message">اكتب رسالتك…</string>
+    <string name="tab_chat">المحادثة</string>
+    <string name="tab_tasks">المهام</string>
+    <string name="tab_notes">الملاحظات</string>
     <string name="send">إرسال</string>
-    <string name="add_task">إضافة مهمة</string>
-    <string name="add_note">إضافة ملاحظة</string>
+    <string name="hint_message">اكتب رسالتك…</string>
     <string name="assistant_welcome">مرحباً، أنا مساعدك الشخصي. كيف أستطيع مساعدتك اليوم؟</string>
-    <string name="task_hint">اسم المهمة</string>
+    <string name="add_task">إضافة مهمة</string>
+    <string name="task_hint">اكتب المهمة</string>
+    <string name="add_note">إضافة ملاحظة</string>
     <string name="note_hint">اكتب ملاحظتك</string>
 </resources>

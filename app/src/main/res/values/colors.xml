@@ -1,0 +1,11 @@
+<resources>
+    <color name="primary">#1E88E5</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="secondary">#00ACC1</color>
+    <color name="background">#F5F7FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#1F2937</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="user_bubble">#1E88E5</color>
+    <color name="assistant_bubble">#E8F1FF</color>
+</resources>
